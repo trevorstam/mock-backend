@@ -1,0 +1,23 @@
+{
+  "name": "mock-backend",
+  "version": "1.0.0",
+  "description": "mock backend with json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server -p 3007 -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorstam/mock-backend.git"
+  },
+  "author": "Trevor Stam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevorstam/mock-backend/issues"
+  },
+  "homepage": "https://github.com/trevorstam/mock-backend#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
