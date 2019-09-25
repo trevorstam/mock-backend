@@ -11,3 +11,8 @@ To start your project:
 4. Type `npm start` to start the mock server
 
 Once you start the mock server, you can test the endpoints with Postman or any other service of your choice
+
+---
+#### Sources
+[setting up the server](https://levelup.gitconnected.com/setting-a-fake-backend-server-in-less-than-60-seconds-a5b1a9c425ef)
+[postman](https://www.getpostman.com)
